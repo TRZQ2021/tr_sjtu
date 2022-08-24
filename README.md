@@ -5,7 +5,7 @@
 A list of personal recipes in markdown format and the source-code to render them
 on a website.
 
-You can view it in action here: [Burger recipe][roast-potatoes]
+You can view it in action here: [Burger recipe] [roast-potatoes]
 (*Disclaimer: All recipes are in German*). Many of the recipes are
 work-in-progress and will be improved over time.
 
@@ -90,4 +90,4 @@ work. The easiest way to do this, is to use
 [GitHub Pages](https://pages.github.com/) for it. This will work out-of-the-box
 (you just have to remove/replace the `CNAME` file).
 
-[smashed-burger]: https://rezepte.bastian-oppermann.de/?recipe=smashed-burger
+[roast-potatoes]: https://tr.sjtu.spciy-food/?recipe=roast-potatoes
