@@ -5,7 +5,7 @@
 A list of personal recipes in markdown format and the source-code to render them
 on a website.
 
-You can view it in action here: [Burger recipe][smashed-burger]
+You can view it in action here: [Burger recipe][roast-potatoes]
 (*Disclaimer: All recipes are in German*). Many of the recipes are
 work-in-progress and will be improved over time.
 
