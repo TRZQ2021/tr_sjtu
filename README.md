@@ -90,4 +90,4 @@ work. The easiest way to do this, is to use
 [GitHub Pages](https://pages.github.com/) for it. This will work out-of-the-box
 (you just have to remove/replace the `CNAME` file).
 
-[roast-potatoes]:https://github.com/TRZQ2021/tr_sjtu/tree/main/recipes/?recipe=roast-potatoes
+[roast-potatoes]:https://github.com/TRZQ2021/tr_sjtu/?recipe=roast-potatoes
